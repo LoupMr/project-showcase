@@ -29,7 +29,5 @@ As **Team Manager** and **DevOps Engineer / AI Developer**, I led project coordi
 
 ## 📷 Screenshots / Diagrams
 
-*(Include images in your repo under `/assets` and reference them like below)*
-
 ![Screenshots UI MVP](assets/horus-UI_MVP.png)
 *Horus UI MVP*
