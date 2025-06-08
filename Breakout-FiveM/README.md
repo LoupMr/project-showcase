@@ -32,6 +32,6 @@ As the lead developer and designer, I handled:
 
 ## 📷 Screenshots / Diagrams
 
-![Screenshots Loading Screen](assets/loading_Screen.png)
-*Horus UI MVP*
+![Screenshots Loading Screen](assets/loadingScreen.png)
+*Breakout FiveM Loading Screen*
 
