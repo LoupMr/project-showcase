@@ -14,9 +14,9 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages**: Python, Bash
+* **Languages**: Python, React, C++
 * **Frameworks/Technologies**: Docker, RPC/API Queues, Open-Source LLMs (e.g., LLaMA, Falcon), RAG (Retrieval-Augmented Generation), Machine Learning Pipelines
-* **Deployment**: Fully self-hosted (Linux servers, no cloud required)
+* **Deployment**: Fully self-hosted / Software
 
 ## 👨‍💻 My Role
 
