@@ -7,8 +7,6 @@
 ## 💡 Key Features
 
 * Multi-phase heists: casing, infiltration, execution, and escape
-* Unique squad roles: Hacker, Demolition, Control, Infiltrator
-* Advanced AI system with civilians, guards, and SWAT response
 * Loot tracking, bag mechanics, and player progression
 * VIP system with cosmetic unlocks and priority access
 
@@ -16,7 +14,7 @@
 
 * **Languages**: Lua, JavaScript, SQL
 * **Frameworks**: QBCore-compatible custom framework
-* **Tools**: MySQL, txAdmin, Tebex, Docker (optional)
+* **Tools**: MySQL, txAdmin, Tebex
 * **UI/UX**: Custom GTA-style NativeUI/NUI hybrid menus
 * **AI & Logic**: Custom patrol logic, wave spawning, player state management
 
